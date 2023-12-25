@@ -1,14 +1,12 @@
-**DISCLAIMER: THIS IS A BACKUP OF THE CURRENT (_2023-12_) CRYPTOPALS CRYPTO CHALLENGES SITE. IT IS BROUGHT HERE FOR THE BACKUP & CONVINIENCE PURPOSE. ALL THE CONTENT & AUTHORSHIP WITH INFORMATION ABOUT CHALLENGES & TASKS BELONGS TO THE ORIGINAL AUTHORS.**
+**DISCLAIMER: THIS IS A BACKUP OF THE CURRENT (_2023-12_) [CRYPTOPALS CRYPTO CHALLENGES SITE](https://cryptopals.com). IT IS BROUGHT HERE FOR THE BACKUP & CONVINIENCE PURPOSE. ALL THE CONTENT & AUTHORSHIP WITH INFORMATION ABOUT CHALLENGES & TASKS BELONGS TO THE ORIGINAL AUTHORS.**
 
 
 # the cryptopals crypto challenges
 
 
-
-
 ## Welcome to the challenges
 
-We can't introduce these any better than Maciej Ceglowski did, so read that blog post first.
+We can't introduce these any better than [Maciej Ceglowski](https://blog.pinboard.in/2013/04/the_matasano_crypto_challenges) did, so read that blog post first.
 
 We've built a collection of exercises that demonstrate attacks on real-world crypto.
 
@@ -17,7 +15,7 @@ This is a different way to learn about crypto than taking a class or reading a b
 
 ### What Are The Rules?
 
-There aren't any! For several years, we ran these challenges over email, and asked participants not to share their results. The honor system worked beautifully! But now we're ready to set aside the ceremony and just publish the challenges for everyone to work on.
+There aren't any! For several years, we ran these challenges over email, and asked participants not to share their results. _The honor system worked beautifully!_ But now we're ready to set aside the ceremony and just publish the challenges for everyone to work on.
 
 
 ### How Much Math Do I Need To Know?
@@ -42,7 +40,7 @@ Right now, we have eight sets. They get progressively harder. Again: these are b
 
 ### Can You Give Us A Long-Winded Indulgent Description For Why You'Ve Chosen To Do This?
 
-It turns out that we can.
+_It turns out that we can._
 
 If you're not that familiar with crypto already, or if your familiarity comes mostly from things like Applied Cryptography, this fact may surprise you: most crypto is fatally broken. The systems we're relying on today that aren't known to be fatally broken are in a state of just waiting to be fatally broken. Nobody is sure that TLS 1.2 or SSH 2 or OTR are going to remain safe as designed.
 
@@ -55,21 +53,21 @@ People "know" this already, but they don't really know it in their gut, and we t
 
 ### How do I start?
 
-Start here!
+[Start here!](https://cryptopals.com/sets/1)
 
 
 ### Who did this?
 
-- Thomas Ptacek (@tqbf)
-- Sean Devlin (@spdevlin)
-- Alex Balducci (@iamalexalright)
-- Marcin Wielgoszewski (@marcinw)
+- Thomas Ptacek ([@tqbf](https://twitter.com/tqbf))
+- Sean Devlin ([@spdevlin](https://twitter.com/spdevlin))
+- Alex Balducci ([@iamalexalright](https://twitter.com/iamalexalright))
+- Marcin Wielgoszewski ([@marcinw](https://twitter.com/marcinw))
 
-Cryptopals is maintained and expanded (from Set 8 on) by Sean Devlin, in conjunction with the Cryptography Services Team at NCC Group.
+Cryptopals is maintained and expanded (from Set 8 on) by Sean Devlin, in conjunction with the [Cryptography Services Team](https://www.nccgroup.com/us/assessment-advisory/cryptography) at [NCC Group](https://www.nccgroup.trust/us).
 
 We could not possibly have done this without the help of several other people. Roughly in order of influence:
 
-- Nate Lawson taught us virtually everything we know about cryptography.
+- [Nate Lawson](https://www.rootlabs.com) taught us virtually everything we know about cryptography.
 - Trevor Perrin taught Nate some of that. I can tell you a pretty compelling story about how Trevor is the intellectual origin of every successful attack on TLS over the past 5 years.
 - Thai Duong and Juliano Rizzo are the godfathers of practical cryptographic software security. Several things in this challenge didn't make sense to us until after Thai and Juliano exploited them in mainstream software.
 
@@ -77,4 +75,5 @@ We could not possibly have done this without the help of several other people. R
 ### Legal
 
 Individual exercise submissions are owned by their author, and may or may not be distributed under an open source license.
+
 
