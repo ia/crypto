@@ -67,7 +67,7 @@ Cryptopals is maintained and expanded (from Set 8 on) by Sean Devlin, in conjunc
 
 We could not possibly have done this without the help of several other people. Roughly in order of influence:
 
-- [Nate Lawson](https://www.rootlabs.com) taught us virtually everything we know about cryptography.
+- [Nate Lawson](http://rootlabs.com) taught us virtually everything we know about cryptography.
 - Trevor Perrin taught Nate some of that. I can tell you a pretty compelling story about how Trevor is the intellectual origin of every successful attack on TLS over the past 5 years.
 - Thai Duong and Juliano Rizzo are the godfathers of practical cryptographic software security. Several things in this challenge didn't make sense to us until after Thai and Juliano exploited them in mainstream software.
 
