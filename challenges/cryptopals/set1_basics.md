@@ -38,3 +38,24 @@ So go ahead and make that happen. You'll need to use this code for the rest of t
 **_`Always operate on raw bytes, never on encoded strings. Only use hex and base64 for pretty-printing.`_**
 
 
+## Fixed XOR
+
+
+## Single-byte XOR cipher
+
+
+## Detect single-character XOR
+
+
+## Implement repeating-key XOR
+
+
+## Break repeating-key XOR
+
+
+## AES in ECB mode
+
+
+## Detect AES in ECB mode
+
+
