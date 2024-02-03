@@ -40,22 +40,36 @@ So go ahead and make that happen. You'll need to use this code for the rest of t
 
 ## Fixed XOR
 
+TBA
+
 
 ## Single-byte XOR cipher
+
+TBA
 
 
 ## Detect single-character XOR
 
+TBA
+
 
 ## Implement repeating-key XOR
+
+TBA
 
 
 ## Break repeating-key XOR
 
+TBA
+
 
 ## AES in ECB mode
 
+TBA
+
 
 ## Detect AES in ECB mode
+
+TBA
 
 
