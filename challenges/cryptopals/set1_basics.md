@@ -87,7 +87,11 @@ Evaluate each output and choose the one with the best score.
 
 ## Detect single-character XOR
 
-TBA
+One of the 60-character strings [in this file](challenge-data/4.txt) has been encrypted by single-character XOR.
+
+Find it.
+
+(Your code from #3 should help.)
 
 
 ## Implement repeating-key XOR
